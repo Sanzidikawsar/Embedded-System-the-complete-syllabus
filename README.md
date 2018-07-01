@@ -1,5 +1,5 @@
 # Arduino For Mid Term
-Uploaded for caring and shearing among friends.
+Uploaded for caring and sharing among friends.
 
 * LED [Click here for code](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LED/LED.ino)
 ![alt text](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LED/LED.png "LED")
