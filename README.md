@@ -23,10 +23,13 @@
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/8Ntsh37D9JU)
 ![PIR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/PIR/PIR_alt.png "PIR")
 
-## 6. [Ultrasonic Sonar](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.ino)
+## 6. [Ultrasonic Sensor](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.ino)
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/2LilNCa5VKi)
-![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.png "Untrasonic")
+![Ultrasonic Sensor](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.png "Untrasonic")
 
-## 7. [Motor](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
+## 7. [MOTOR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/57fTUxPHIHg#/)
-![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.png "Motor")
+![MOTOR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.png "MOTOR")
+### 7.1 [MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
+![MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/MOTORwithLM7805.png "MOTOR With LM7805")
+
