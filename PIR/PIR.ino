@@ -3,7 +3,7 @@ void setup()
   pinMode(12, INPUT);
   pinMode(13, OUTPUT);
   
-  digitalWrite(4, LOW);
+  digitalWrite(12, LOW);
   
   Serial.begin(9600);
   Serial.println("Doing.. ");
