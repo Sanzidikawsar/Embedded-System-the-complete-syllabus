@@ -27,6 +27,6 @@
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/2LilNCa5VKi)
 ![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.png "Untrasonic")
 
-## 7. [Ultrasonic Sonar](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
+## 7. [Motor](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/57fTUxPHIHg#/)
-![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.png "Untrasonic")
+![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.png "Motor")
