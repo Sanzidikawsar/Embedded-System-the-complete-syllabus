@@ -13,7 +13,7 @@ void setup()
 
 void loop()
 {
-  int pir = digitalRead(12);
+  int pir = digitalRead(2);
   
   if(pir == HIGH){
     digitalWrite(9, HIGH);
