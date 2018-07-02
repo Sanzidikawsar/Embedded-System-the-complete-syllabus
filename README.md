@@ -12,7 +12,7 @@
 ![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/push_button/push_button.png "Push Button")
 
 ## 3. [LDR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LDR/LDR.ino)
-* ### [Live demo on tinker cad](https://www.tinkercad.com/things/4LFyS6USoks)
+* ### [Live demo on tinker cad](https://www.tinkercad.com/things/9slv4Xavy6K-ldr)
 ![LDR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LDR/LDR.png "LDR")
 
 ## 4. [LM 35](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LM_35/LM_35.ino)
