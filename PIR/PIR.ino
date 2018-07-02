@@ -1,9 +1,9 @@
 void setup()
 {
-  pinMode(12, INPUT);
-  pinMode(13, OUTPUT);
+  pinMode(2, INPUT);
+  pinMode(9, OUTPUT);
   
-  digitalWrite(12, LOW);
+  digitalWrite(2, LOW);
   
   Serial.begin(9600);
   Serial.println("Doing.. ");
@@ -16,10 +16,10 @@ void loop()
   int pir = digitalRead(12);
   
   if(pir == HIGH){
-    digitalWrite(13, HIGH);
+    digitalWrite(9, HIGH);
   	delay(1000);
   }
   else{
-    digitalWrite(13, LOW);
+    digitalWrite(9, LOW);
   }
 }
