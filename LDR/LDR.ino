@@ -1,14 +1,15 @@
 void setup()
 {
   pinMode(A1, INPUT);
-  pinMode(13, OUTPUT);
+  pinMode(11, OUTPUT);
+  
+  Serial.begin(9600);
 }
 
 void loop()
 {
   int light = analogRead(A1);
-  analogWrite(13, light);
+  analogWrite(11, light);
   
-  Serial.begin(9600);
   Serial.println(light);
 }

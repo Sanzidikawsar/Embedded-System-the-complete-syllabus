@@ -16,5 +16,8 @@ Uploaded for caring and sharing among friends.
 * PIR [Click here for code](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/PIR/PIR.ino)
 ![PIR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/PIR/PIR.png "PIR")
 
-* Ultra Sonic [Click here for code](https://github.com/ShahariarRabby/arduino-for-mid-term/blob/master/Ultra-sonic/UltraSonic.ino)
-![Ultra Sonic](https://github.com/ShahariarRabby/arduino-for-mid-term/blob/master/Ultra-sonic/UltraSonic.bmp "Ultra Sonic")
+* Ultrasonic Sonar [Click here for code](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.ino)
+![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.png "Untrasonic")
+
+* Ultrasonic Sonar by Shaikat Saha [Click here for code](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_F_sec/ultrasonic.ino)
+![Push Button](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_F_sec/ultrasonic.png "Untrasonic F")
