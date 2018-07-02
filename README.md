@@ -15,9 +15,9 @@
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/9slv4Xavy6K-ldr)
 ![LDR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LDR/LDR.png "LDR")
 
-## 4. [LM 35](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LM_35/LM_35.ino)
+## 4. [Temperature Sensor LM35](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/Temperature_Sensor_LM35/LM_35.ino)
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/7FsKzQ5oui3)
-![LM 35](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/LM_35/LM_35.png "LM 35")
+![LM 35](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/Temperature_Sensor_LM35/LM_35.png "LM 35")
 
 ## 5. [PIR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/PIR/PIR.ino)
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/8Ntsh37D9JU)
@@ -27,12 +27,12 @@
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/2LilNCa5VKi)
 ![Ultrasonic Sensor](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/ultrasonic_sonar/ultrasonic.png "Untrasonic")
 
-## 7. [MOTOR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
+## 7. [MOTOR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/Motor_L293D/motor.ino)
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/jJJZScPVqra)
-![MOTOR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.png "MOTOR")
-### 7.1 [MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
+![MOTOR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/Motor_L293D/motor.png "MOTOR")
+### 7.1 [MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/Motor_L293D/motor.ino)
 * ### [Live demo on tinker cad](https://www.tinkercad.com/things/57fTUxPHIHg)
-![MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/MOTORwithLM7805.png "MOTOR With LM7805")
+![MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/Motor_L293D/MOTORwithLM7805.png "MOTOR With LM7805")
 
 # Question Solve
 ## [Spring 2018](https://github.com/ShahariarRabby/Arduino-Practice/tree/master/Question_Solve/Spring18)
