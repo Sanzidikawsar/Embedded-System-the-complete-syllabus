@@ -32,3 +32,4 @@
 ![MOTOR](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.png "MOTOR")
 ### 7.1 [MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/motor.ino)
 ![MOTOR With LM7805](https://github.com/Sanzidikawsar/arduino-for-mid-term/blob/master/motor/MOTORwithLM7805.png "MOTOR With LM7805")
+
