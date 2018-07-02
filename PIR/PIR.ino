@@ -8,7 +8,7 @@ void setup()
   Serial.begin(9600);
   Serial.println("Doing.. ");
   
-  delay(30000);
+  delay(3000);
 }
 
 void loop()
